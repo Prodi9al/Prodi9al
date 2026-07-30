@@ -7,7 +7,7 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
 I'm Nana Yaw, but a lot's happened, so these days I go by Prodigal Son. I'm a Computer Science and Cybersecurity student at GCTU with a growing pull toward offensive security, OSINT, and building things that actually run in production, not just in a sandbox.
 
