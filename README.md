@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Nana Yaw</h1>
-<h3 align="center">Went through a lot, decided to go by Prodigal Son</h3>
+<h3 align="center">stuff happened and boom, decided to go by Prodigal Son</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BSc+Computer+Science+(Cybersecurity)%2C+GCTU;Professional+Attachment+%40+Cyber+Security+Authority%2C+Ghana;Building+FastAPI+%2B+Telegram+bots+and+OSINT+tools;Chess+%7C+Philosophy+%7C+CTFs" alt="Typing SVG" />
