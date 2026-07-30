@@ -9,11 +9,7 @@
 
 ### 💫 About Me
 
-Real, so basically, let me run this: I'm Prodigal Son, got bit by a radioactive spider, and I am your friendly neighborhood... lol, so yeah, Prodigal is the name.
-
-By day (and most nights, let's be honest) I'm knee-deep in CTFs, hunting bugs on Intigriti, and building self-hosted stuff on Oracle Cloud that I'd rather engineer myself than pay for. I use Arch, btw, because apparently that's a personality trait now.
-
-Off the clock you'll catch me overthinking a chess position, going down a philosophy or esoteric-symbolism rabbit hole, or writing dark-romantic poetry under a completely different name, because a guy's gotta have layers.
+I'm Nana Yaw, average Joe and a dude crazy about his muse. Prodigal Son is the name picked, or it picked me, not sure, but yeah, we roll. God, how do I introduce myself? Forget it, just find me, talk to me, and know me. Peace out.
 
 ---
 
@@ -98,8 +94,8 @@ My final-year project. An OSINT geolocation platform combining:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prodi9al&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodi9al&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prodi9al&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodi9al&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&cache_seconds=1800" />
 </p>
 
 <p align="center">
