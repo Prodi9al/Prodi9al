@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey, I'm King Lukainzy</h1>
-<h3 align="center">Cybersecurity Student · Backend Builder · OSINT Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm Nana Yaw</h1>
+<h3 align="center">Went through a lot, decided to go by Prodigal Son</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BSc+Computer+Science+(Cybersecurity)%2C+GCTU;Professional+Attachment+%40+Cyber+Security+Authority%2C+Ghana;Building+FastAPI+%2B+Telegram+bots+and+OSINT+tools;Chess+%7C+Philosophy+%7C+CTFs" alt="Typing SVG" />
@@ -12,6 +12,8 @@
 - 🎓 BSc Computer Science (Cybersecurity) student at **Ghana Communication Technology University (GCTU)**
 - 🚩 Average CTF player — played in Cyber Apocalypse, ECOWAS CTF, and inter-university CTFs
 - 🐧 I use Arch, btw
+- 🔐 Web pentesting enthusiast — HTB Academy, PortSwigger Web Security Academy
+- 🎯 Bug bounty hunting on Intigriti
 - 📚 Sharpening offensive security skills on **HTB Academy** (Web Penetration Tester path) and **PortSwigger Web Security Academy**
 - ♟️ Chess, philosophy, esoteric symbolism, and OSINT investigation on the side
 - ✍️ Also write dark-romantic poetry under a separate pen name — code by day, verse by night
@@ -28,6 +30,17 @@
 | **[Market Monitor](https://github.com/kinglukainzy-ai/)** | Forex signal tool — pulls Twelve Data/ForexFactory feeds through Gemini 2.5 Flash for plain-English trade verdicts via Telegram |
 | **[novelbot / Thoth](https://github.com/kinglukainzy-ai/)** | Self-hosted novel & anime tracker across Discord, Telegram, and WhatsApp, running local LLM inference via Ollama |
 | **[Fedora Installer](https://github.com/kinglukainzy-ai/Fedora-installer-)** | GTK4/libadwaita desktop installer app, now at v1.9.1 with a full test suite |
+| **GoBusGhana** | Ghanaian mobility super-app |
+| **IDM Portal** | Django-based Identity and Access Management web app, with a Flutter mobile frontend and web emulator |
+| **Ambxst** | Custom Quickshell/QML desktop shell built for Hyprland |
+
+---
+
+### 🏁 Notable CTF Writeups
+
+- **HTB "MadMath" (Crypto)** — smooth-phi RSA key recovery chained with an elliptic curve DLOG oracle attack
+- **Fusion CTF "freeinvoice" (Web, 300pts)** — prototype pollution, HTML template injection, and a cookie-domain access control bypass
+- **RISC-V reversing challenge** — custom opcode set solved via a Unicorn emulation harness
 
 ---
 
