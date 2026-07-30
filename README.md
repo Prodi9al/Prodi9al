@@ -10,8 +10,8 @@
 ### 🧭 About Me
 
 - 🎓 BSc Computer Science (Cybersecurity) student at **Ghana Communication Technology University (GCTU)**
-- 🛡️ On professional attachment at Ghana's **Cyber Security Authority (CSA)** — Capacity Building & Awareness Creation division
-- 🚩 Competitive CTF player — placed **7th out of 5,870 teams** in Cyber Apocalypse CTF 2026: The Salt Crown (all 74 challenges solved)
+- 🚩 Average CTF player — played in Cyber Apocalypse, ECOWAS CTF, and inter-university CTFs
+- 🐧 I use Arch, btw
 - 📚 Sharpening offensive security skills on **HTB Academy** (Web Penetration Tester path) and **PortSwigger Web Security Academy**
 - ♟️ Chess, philosophy, esoteric symbolism, and OSINT investigation on the side
 - ✍️ Also write dark-romantic poetry under a separate pen name — code by day, verse by night
@@ -23,7 +23,6 @@
 | Project | Description |
 |---|---|
 | **[PHANTOM](https://github.com/kinglukainzy-ai/)** | Final-year OSINT geolocation platform — GeoCLIP + StreetCLIP ensemble with ArcFace face verification, built on FastAPI, deployed on Oracle Cloud |
-| **[CSA Cyber Awareness Platform](https://csaplatform.mooo.com)** | National cyber-awareness platform — FastAPI, Next.js, PostgreSQL, Redis, Celery, MinIO, fully containerized on Docker |
 | **[EcoPulse](https://github.com/kinglukainzy-ai/ecopulse-llm-)** | Climate hackathon project — Android app paired with a climate-focused LLM bot |
 | **[GH₵ Portfolio](https://github.com/kinglukainzy-ai/gse-portfolio)** | FastAPI + Telegram bot for tracking Ghana Stock Exchange (GSE) buys/sells with live P&L graphs |
 | **[Market Monitor](https://github.com/kinglukainzy-ai/)** | Forex signal tool — pulls Twelve Data/ForexFactory feeds through Gemini 2.5 Flash for plain-English trade verdicts via Telegram |
@@ -63,7 +62,7 @@
 ### 🔥 Currently
 
 > In a world full of poets, I am their god. In a world of science, however, knowledge is my god.
-> I'm cooking something epic  just wait.
+> I'm cooking something epic — just wait.
 
 ---
 
