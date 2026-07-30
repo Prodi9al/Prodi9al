@@ -11,6 +11,8 @@
 
 I'm Nana Yaw, average Joe and a dude crazy about his muse. Prodigal Son is the name picked, or it picked me, not sure, but yeah, we roll. God, how do I introduce myself? Forget it, just find me, talk to me, and know me. Peace out.
 
+My philosophy is simple: if anyone can do it, that means I can do it way better, I just haven't started. I am the apex of the apexes.
+
 ---
 
 ### 🎯 Goals
