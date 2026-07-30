@@ -7,15 +7,28 @@
 
 ---
 
-### 🧭 About Me
+### 💫 About Me
 
-- 🎓 BSc Computer Science (Cybersecurity) student at **Ghana Communication Technology University (GCTU)**
-- 🚩 Average CTF player, played in Cyber Apocalypse, ECOWAS CTF, and inter-university CTFs
-- 🐧 I use Arch, btw
-- 🔐 Web pentesting enthusiast, HTB Academy and PortSwigger Web Security Academy
-- 🎯 Bug bounty hunting on Intigriti
-- ♟️ Chess, philosophy, esoteric symbolism, and OSINT investigation on the side
-- ✍️ Also write dark-romantic poetry under a separate pen name, code by day, verse by night
+I'm Nana Yaw, but a lot's happened, so these days I go by Prodigal Son. I'm a Computer Science and Cybersecurity student at GCTU with a growing pull toward offensive security, OSINT, and building things that actually run in production, not just in a sandbox.
+
+Right now that means splitting time between CTFs (Cyber Apocalypse, ECOWAS CTF, inter-university stuff), bug bounty hunting on Intigriti, and shipping self-hosted projects on Oracle Cloud that I'd rather build than buy. I use Arch, btw.
+
+When I'm not knee-deep in a challenge or a broken deployment, you'll find me playing chess, reading into philosophy and esoteric symbolism, or writing dark-romantic poetry under a separate pen name. Code by day, verse by night.
+
+---
+
+### 🎯 Goals
+
+- Get genuinely good at web exploitation and offensive security, not just CTF-good
+- Ship PHANTOM as a real, usable OSINT platform
+- Keep building tools people actually use instead of shelving them after the demo
+- Land real bug bounty finds, not just lab completions
+
+---
+
+### ⚡ Fun Fact
+
+Half my repos are cybersecurity tools, the other half are things I built for people I care about, birthday sites, proposal pages, that kind of thing.
 
 ---
 
