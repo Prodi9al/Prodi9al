@@ -7,13 +7,13 @@
 
 ---
 
-###  About Me
+### 💫 About Me
 
-I'm Nana Yaw, but a lot's happened, so these days I go by Prodigal Son. I'm a Computer Science and Cybersecurity student at GCTU with a growing pull toward offensive security, OSINT, and building things that actually run in production, not just in a sandbox.
+Real, so basically, let me run this: I'm Prodigal Son, got bit by a radioactive spider, and I am your friendly neighborhood... lol, so yeah, Prodigal is the name.
 
-Right now that means splitting time between CTFs (Cyber Apocalypse, ECOWAS CTF, inter-university stuff), bug bounty hunting on Intigriti, and shipping self-hosted projects on Oracle Cloud that I'd rather build than buy. I use Arch, btw.
+By day (and most nights, let's be honest) I'm knee-deep in CTFs, hunting bugs on Intigriti, and building self-hosted stuff on Oracle Cloud that I'd rather engineer myself than pay for. I use Arch, btw, because apparently that's a personality trait now.
 
-When I'm not knee-deep in a challenge or a broken deployment, you'll find me playing chess, reading into philosophy and esoteric symbolism, or writing dark-romantic poetry under a separate pen name. Code by day, verse by night.
+Off the clock you'll catch me overthinking a chess position, going down a philosophy or esoteric-symbolism rabbit hole, or writing dark-romantic poetry under a completely different name, because a guy's gotta have layers.
 
 ---
 
