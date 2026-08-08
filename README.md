@@ -1,9 +1,7 @@
-<h1 align="center">👋 Hey, I'm Nana Yaw</h1>
-<h3 align="center">Went through a lot, decided to go by Prodigal Son</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BSc+Computer+Science+(Cybersecurity)%2C+GCTU;Professional+Attachment+%40+Cyber+Security+Authority%2C+Ghana;Building+FastAPI+%2B+Telegram+bots+and+OSINT+tools;Chess+%7C+Philosophy+%7C+CTFs" alt="Typing SVG" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:D4AF37&height=200&section=header&text=Prodigal%20Son&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20corner%20of%20github&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BSc+Computer+Science+(Cybersecurity)%2C+GCTU;Professional+Attachment+%40+Cyber+Security+Authority%2C+Ghana;Building+FastAPI+%2B+Telegram+bots+and+OSINT+tools;Chess+%7C+Philosophy+%7C+CTFs" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -66,9 +64,11 @@ My final-year project. An OSINT geolocation platform combining:
 
 ### 🌱 Currently Learning
 
-- Advanced web exploitation (HTB Academy, Web Penetration Tester path)
-- PortSwigger Web Security Academy labs
-- OSINT tradecraft and investigative tooling
+<p align="center">
+
+`Advanced Web Exploitation` `HTB Academy` `PortSwigger Web Security` `OSINT Tradecraft`
+
+</p>
 
 ---
 
@@ -110,6 +110,14 @@ My final-year project. An OSINT geolocation platform combining:
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prodi9al/Prodi9al/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+---
+
 ### 🔥 Currently
 
 > In a world full of poets, I am their god. In a world of science, however, knowledge is my god.
@@ -118,3 +126,5 @@ My final-year project. An OSINT geolocation platform combining:
 ---
 
 <p align="center"><i>"In the ashes of the old work rises the next commit."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0d1117&height=100&section=footer" width="100%"/>
