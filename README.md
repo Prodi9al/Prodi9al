@@ -51,6 +51,21 @@ My final-year project. An OSINT geolocation platform combining:
 | **[Market Monitor](https://github.com/kinglukainzy-ai/)** | Forex signal tool, pulls Twelve Data/ForexFactory feeds through Gemini 2.5 Flash for plain-English trade verdicts via Telegram |
 | **[novelbot / Thoth](https://github.com/kinglukainzy-ai/)** | Self-hosted novel & anime tracker across Discord, Telegram, and WhatsApp, running local LLM inference via Ollama |
 | **Ambxst** | Custom Quickshell/QML desktop shell built for Hyprland |
+| **[hyprland-config](https://github.com/Prodi9al/hyprland-config)** | My Hyprland dotfiles (HyDE fork renamed to "prodi"): theme framework, security-hardened scripts, wallpaper gallery, and a downloadable ZIP. Includes device-specific features like howdy face unlock on HP EliteBooks. |
+
+---
+
+### 🧩 Dotfiles & Device Features
+
+- **Hyprland dotfiles** (`Prodi9al/hyprland-config`) — HyDE fork renamed to
+  `prodi`, with `install.sh`/`uninstall.sh`/`restore_cfg.sh` lifecycle scripts,
+  a `Scripts/device/` section for per-machine tweaks, and a release ZIP.
+- **howdy face unlock** — `sudo`/`hyprlock` face auth on HP EliteBook. Fixes
+  the OpenCV soname bump (`.so.500` → `.so.501`) and silences ONNX fallback
+  warnings with a compiled ELF wrapper, kept running by a persistent systemd
+  timer that re-applies the fix on next boot.
+
+---
 
 ---
 
