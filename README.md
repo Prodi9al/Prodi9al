@@ -104,6 +104,13 @@ My final-year project. An OSINT geolocation platform combining:
   <img src="https://img.shields.io/badge/GTK4-4A90D9?style=for-the-badge&logo=gtk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-89b4ff?style=for-the-badge&logo=hyprland&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/systemd-3a3a3a?style=for-the-badge&logo=systemd&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/OpenCV-5C6E75?style=for-the-badge&logo=opencv&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Lua-222277?style=for-the-badge&logo=lua&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Ruff-8366d4?style=for-the-badge&logo=ruff&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Shellcheck-6e748d?style=for-the-badge&logo=shellcheck&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=ffffff" />
 </p>
 
 ---
