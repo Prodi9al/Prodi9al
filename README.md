@@ -44,11 +44,13 @@ My final-year project. An OSINT geolocation platform combining:
 |---|---|
 | **[PHANTOM](https://github.com/kinglukainzy-ai/)** | Final-year OSINT geolocation platform, GeoCLIP + StreetCLIP ensemble with ArcFace face verification, built on FastAPI, deployed on Oracle Cloud |
 | **[EcoPulse](https://github.com/kinglukainzy-ai/ecopulse-llm-)** | Climate hackathon project, Android app paired with a climate-focused LLM bot |
-| **[GH₵ Portfolio](https://github.com/kinglukainzy-ai/gse-portfolio)** | FastAPI + Telegram bot for tracking Ghana Stock Exchange (GSE) buys/sells with live P&L graphs |
+| **[GH₵ Portfolio](https://github.com/Prodi9al/gse-portfolio)** | FastAPI + Telegram bot for tracking Ghana Stock Exchange (GSE) buys/sells with live P&L graphs, backed by a pytest CI |
+| **[NoteVault](https://github.com/Prodi9al/notevault)** | Local-first course-notes & document-sharing platform — FastAPI + Next.js 14, with files in S3/MinIO via presigned URLs |
+| **[Biometric ATM](https://github.com/Prodi9al/biometric-system)** | Fail-secure biometric authentication system (face + fingerprint/WebAuthn), Python + PHP, Dockerized for AWS |
 | **IDM Portal** | Django-based Identity and Access Management web app, with a Flutter mobile frontend and web emulator |
 | **[Fedora Installer](https://github.com/kinglukainzy-ai/Fedora-installer-)** | GTK4/libadwaita desktop installer app, now at v1.9.1 with a full test suite |
 | **GoBusGhana** | Ghanaian mobility super-app |
-| **[Market Monitor](https://github.com/kinglukainzy-ai/)** | Forex signal tool, pulls Twelve Data/ForexFactory feeds through Gemini 2.5 Flash for plain-English trade verdicts via Telegram |
+| **[Market Monitor](https://github.com/Prodi9al/market-monitor)** | Always-on market monitor: price/volume spikes, public-figure statements, and red-folder calendar events, synthesized by Claude and alerted via Telegram/email |
 | **[novelbot / Thoth](https://github.com/kinglukainzy-ai/)** | Self-hosted novel & anime tracker across Discord, Telegram, and WhatsApp, running local LLM inference via Ollama |
 | **Ambxst** | Custom Quickshell/QML desktop shell built for Hyprland |
 | **[hyprland-config](https://github.com/Prodi9al/hyprland-config)** | My Hyprland dotfiles (HyDE fork renamed to "prodi"): theme framework, security-hardened scripts, wallpaper gallery, and a downloadable ZIP. Includes device-specific features like howdy face unlock on HP EliteBooks. |
@@ -64,8 +66,6 @@ My final-year project. An OSINT geolocation platform combining:
   the OpenCV soname bump (`.so.500` → `.so.501`) and silences ONNX fallback
   warnings with a compiled ELF wrapper, kept running by a persistent systemd
   timer that re-applies the fix on next boot.
-
----
 
 ---
 
